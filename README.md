@@ -1,4 +1,4 @@
 dressme
 =======
 
-Repository for the Dress Me App
+Post photos/text
